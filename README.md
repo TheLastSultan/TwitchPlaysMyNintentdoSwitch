@@ -1,6 +1,9 @@
 # Random Twitchers Play Random Games From my Nintendo Switch
 
 ### How This Works
+1) Visit https://www.twitch.tv/randomtwitchersplay and login if you need
+2) Type '!join' in chat to be placed in the queue
+
 You enter the Twitch stream, and wait in line. When you're up, a low-latency video 
 connection of my Switch is streamed to your browser at an undisclosed URL. You can use a USB 
 controller or your  keyboard to directly control my Nintendo Switch for a few minutes! 
