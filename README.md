@@ -14,14 +14,6 @@ completition; passing through the hands of people from all over the globe.
 
 ...This is how Animal Crossing should be played. 
 
-### This is NOT typical "Twitch Plays"
-Twitch Plays works by players entering in commands through Twitch Chat. The commands 
-for input (A/B/Up/Down) are gathered over a window of time (say 15 seconds), and the
-most commonly inputted command is relayed to the device. Kinda like an Ouji Board.
-
-Random Twitch Plays allows for players to plug in their controller or keyboard, and assume
-direct control for a period of time. Eventually the controls are passed to the next player in line.
-
 ### Architecture
 ![architecture](architecture-queue.png)
 ![architecture](architecture-stream.png)
